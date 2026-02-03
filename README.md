@@ -1,2 +1,2 @@
 # ProjectAdventure
-Repository for DnD inspired Pygame
+Repository for DnD inspired Pygame.
